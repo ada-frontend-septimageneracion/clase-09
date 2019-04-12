@@ -41,7 +41,9 @@ Obligatorio
 
 - Selectores (#id, .clase, etiqueta)
 - Estilos en Hoja externa, en `<style>`
+- Unidades de medida (relativas y absolutas) (`px, em, rem, vh, vw`...)
 
 Opcional
 
 - Estilos “inline” (`<body style=”…”>`)
+- `float`y `clear`
